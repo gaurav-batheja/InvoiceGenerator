@@ -1,0 +1,23 @@
+[
+  {"name": "Rosemary Rosé Shampoo", "mrp": 510, "hsn": "30049011", "gst": 12},
+  {"name": "Conditioning Shampoo Lavender Dream", "mrp": 510, "hsn": "330510", "gst": 18},
+  {"name": "Coffee N Cream Pearly Shampoo", "mrp": 510, "hsn": "340130", "gst": 18},
+  {"name": "Seven Seas Shampoo", "mrp": 510, "hsn": "33049930", "gst": 18},
+
+  {"name": "Rosé Body Lotion", "mrp": 430, "hsn": "33049930", "gst": 18},
+  {"name": "Seven Seas Body Lotion", "mrp": 430, "hsn": "33049930", "gst": 18},
+  {"name": "Coffee N Cream Body Lotion", "mrp": 430, "hsn": "33049930", "gst": 18},
+  {"name": "Lavender Dream Body Lotion", "mrp": 430, "hsn": "33049930", "gst": 18},
+  
+  {"name": "Rosé Shower Liquid", "mrp": 375, "hsn": "330510", "gst": 18},
+  {"name": "Seven Seas Shower Liquid", "mrp": 375, "hsn": "330510", "gst": 18},
+  {"name": "Coffee N Cream Shower Liquid", "mrp": 375, "hsn": "330510", "gst": 18},
+  {"name": "Lavender Dream Shower Liquid", "mrp": 375, "hsn": "330510", "gst": 18},
+
+  {"name": "UV Gel Sunscreen", "mrp": 549, "hsn": "30049011", "gst": 12},
+  {"name": "Golden Glow Sunscreen", "mrp": 549, "hsn": "30049011", "gst": 12},
+
+  {"name": "Nourish Clay Mask", "mrp":499 , "hsn": "30049011", "gst": 12},
+  {"name": "Clarify Clay Mask", "mrp":499 , "hsn": "30049011", "gst": 12}
+  
+]
