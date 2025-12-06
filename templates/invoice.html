@@ -30,12 +30,14 @@
         <div class="col-md-6 col-12">
           <strong>Business Address:</strong> 2nd floor, Concept Skin, Mowa Raipur(C.G)<br>
           <strong>Contact:</strong> 7024560470<br>
+          <strong>GST No.:</strong> 22HBQPB3488D1ZN<br>
           <strong>Billing Date:</strong> {{ billing_date }}
         </div>
         <div class="col-md-6 col-12 text-md-end">
           <strong>Invoice Number:</strong> {{ invoice_number }}<br>
           <strong>Client Name:</strong> {{ client_name }}<br>
           <strong>Address:</strong> {{ client_address }}<br>
+          <strong>Client GST No.:</strong> {{ client_gst }}<br>
           <strong>Payment Mode:</strong> {{ payment_mode }}
         </div>
       </div>
@@ -90,8 +92,9 @@
       </div>
     </div>
   </div>
-      <div class="text-center mt-4">
-      <button class="btn btn-secondary" onclick="window.print()">Print / Save PDF</button>
-    </div>
+
+  <div class="text-center mt-4">
+    <button class="btn btn-secondary" onclick="window.print()">Print / Save PDF</button>
+  </div>
 </body>
 </html>

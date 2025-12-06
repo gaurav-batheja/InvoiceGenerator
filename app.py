@@ -13,6 +13,7 @@ def index():
         invoice_number = request.form.get('invoice_number')
         client_name = request.form.get('client_name')
         client_address = request.form.get('client_address')
+        client_gst = request.form.get('client_gst')
         payment_mode = request.form.get('payment_mode')
         billing_date = request.form.get('billing_date') or datetime.now().strftime("%d-%m-%Y")
 
@@ -59,6 +60,7 @@ def index():
                                invoice_number=invoice_number,
                                client_name=client_name,
                                client_address=client_address,
+                               client_gst=client_gst,
                                payment_mode=payment_mode,
                                billing_date=billing_date,
                                items=items,
